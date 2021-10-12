@@ -15,6 +15,7 @@ django-environ = "*"
 word2number = "*"
 pyproj = "*"
 psycopg2 = "*"
+gunicorn = "*"
 
 [dev-packages]
 
