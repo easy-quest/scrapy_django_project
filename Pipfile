@@ -13,6 +13,8 @@ requests = {extras = ["socks"], version = "*"}
 django-phone-field = "*"
 django-environ = "*"
 word2number = "*"
+pyproj = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
